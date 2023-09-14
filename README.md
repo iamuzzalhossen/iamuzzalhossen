@@ -1,16 +1,30 @@
-### Hi there 👋
+<h2 align="center">Greetings! I am Uzzal Hossen.</h2>
+<p> 💻 Web Developer | 🌐 WordPress Enthusiast | ✅ Founder of Themes Bolt </p>
 
-<!--
-**iamuzzalhossen/iamuzzalhossen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> 🚀 I am passionate about Coding, exploring WordPress, Open Source, and Technology. </p>
+<p> 🟢 I am currently assisting my clients in establishing their online presence by creating stunning WordPress Websites for them. </p>
+<p> 🟢 Explore my Services at https://themesbolt.com/services </p>
+<p> 🟢 I love communicating with people and creating great things I'd be proud of. </p>
+<p> 💡 Here to Learn, Collaborate, and Contribute to exciting projects. </p>
 
-Here are some ideas to get you started:
+<h3 align="left">Get In Touch:</h3>
+<p dir="auto" align="left">
+  <a href="https://www.linkedin.com/in/iamuzzalhossen/" rel="nofollow"><img src="https://camo.githubusercontent.com/b124ba5880a15e3c3bd9817f2c5caebd3614427ff4be6844fb69058fd36390e5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://facebook.com/iamuzzalhossen" rel="nofollow"><img src="https://camo.githubusercontent.com/0edc472ba70905b8a40b86bd96a8f7d60e3e0d0620589f6e40710632be2288e9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666c61742d737175617265266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="Facebook" data-canonical-src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&amp;logo=facebook&amp;logoColor=white" style="max-width: 100%;"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">My Skills:</h3>
+<p dir="auto" align="left">
+  <img src="https://camo.githubusercontent.com/78dc5835c254ff7423aabdd3a0fb6592c334072417a09e6556f446029395bae8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML5" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;">
+  <img src="https://camo.githubusercontent.com/c9bb78d3bce7cdaaaaecc956736c1f2cf629065a8d02e5fbd6825efa409718d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="CSS3" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;">
+  <img src="https://camo.githubusercontent.com/938f521e521833f1441bd38ed8613ee95623a5c0d9e2bf2bd3e64c1c1c880dea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666c61742d737175617265266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" alt="Bootstrap" data-canonical-src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&amp;logo=bootstrap&amp;logoColor=white" style="max-width: 100%;">
+   <img src="https://camo.githubusercontent.com/b18cd96f056a7af4213539108d08784f3e02e3eee1fbc0ea497d2364ca211806/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" style="max-width: 100%;">
+   <img src="https://camo.githubusercontent.com/2a90af184556d2002cf1ce613ab48fcd33d071ae7ca63e90bee7ca941988840c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a51756572792d3037363941443f7374796c653d666c61742d737175617265266c6f676f3d6a7175657279266c6f676f436f6c6f723d7768697465" alt="jQuery" data-canonical-src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&amp;logo=jquery&amp;logoColor=white" style="max-width: 100%;">
+   <img src="https://camo.githubusercontent.com/c3371f753c835f6f650048c7ad8bd199c5239c02ce699f2b2340a61ae704b5f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576f726470726573732d3231373539423f7374796c653d666c61742d737175617265266c6f676f3d776f72647072657373266c6f676f436f6c6f723d7768697465" alt="WordPress" data-canonical-src="https://img.shields.io/badge/Wordpress-21759B?style=flat-square&amp;logo=wordpress&amp;logoColor=white" style="max-width: 100%;">
+  <img src="https://camo.githubusercontent.com/1dee47931015b44259c927bd462175e5b9cfd5ebd366d2add78b4f82ff1738f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456c656d656e746f722d3931343646463f7374796c653d666c61742d737175617265266c6f676f3d656c656d656e746f72266c6f676f436f6c6f723d7768697465" alt="Elementor" data-canonical-src="https://img.shields.io/badge/Elementor-9146FF?style=flat-square&amp;logo=elementor&amp;logoColor=white" style="max-width: 100%;">
+  <img src="https://camo.githubusercontent.com/270c3447a464e9ed397c7b968c34bcebf58201dca621f3c4074b37e721530215/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5048502d3737374242343f7374796c653d666c61742d737175617265266c6f676f3d706870266c6f676f436f6c6f723d7768697465" alt="PHP" data-canonical-src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&amp;logo=php&amp;logoColor=white" style="max-width: 100%;">
+  <img src="https://camo.githubusercontent.com/960e25c89edb27b0b1c4a9f899233e3cebbd06838355ccbd0c92b2eb4bfa8799/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030354338343f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt="MySQL" data-canonical-src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&amp;logo=mysql&amp;logoColor=white" style="max-width: 100%;">
+  <img src="https://camo.githubusercontent.com/0d0a29d6ac28a158b0356adcdfe0aef35e7b0feb4b25a32058a80aab2801d60b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436c6f7564666c6172652d4633383032303f7374796c653d666c61742d737175617265266c6f676f3d436c6f7564666c617265266c6f676f436f6c6f723d7768697465" alt="Cloudflare" data-canonical-src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&amp;logo=Cloudflare&amp;logoColor=white" style="max-width: 100%;">
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamuzzalhossen&label=Profile%20views&color=0e75b6&style=flat" alt="iamuzzalhossen" /> </p>
