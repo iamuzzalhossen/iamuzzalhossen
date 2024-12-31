@@ -7,12 +7,6 @@
 <p> 🟢 I love communicating with people and creating great things I'd be proud of. </p>
 <p> 💡 Here to Learn, Collaborate, and Contribute to exciting projects. </p>
 
-<h3 align="left">Get In Touch:</h3>
-<p dir="auto" align="left">
-  <a href="https://www.linkedin.com/in/iamuzzalhossen/" rel="nofollow"><img src="https://camo.githubusercontent.com/4be994899f673a5bcd6d5b3b123a757b161b9884a5e09dc7005aa7b6636be653/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a href="https://facebook.com/iamuzzalhossen" rel="nofollow"><img src="https://camo.githubusercontent.com/847d0a14ea070fee8b143a494e2843c485f0137ee52fc1ac9860f4c7c2e2da78/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666c61742d737175617265266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="Facebook" data-canonical-src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&amp;logo=facebook&amp;logoColor=white" style="max-width: 100%;"></a>
-</p>
-
 <h3 align="left">My Skills:</h3>
 <p dir="auto" align="left">
   <img src="https://camo.githubusercontent.com/5c2af525789fe1731755aa21af34a1bcfdd04108d666651c8280f40bcbc4ea03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML5" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;">
