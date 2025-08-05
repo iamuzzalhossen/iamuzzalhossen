@@ -9,7 +9,11 @@
 
 <h3 align="left">My Skills:</h3>
 <p dir="auto" align="left">
-  <img src="https://camo.githubusercontent.com/5c2af525789fe1731755aa21af34a1bcfdd04108d666651c8280f40bcbc4ea03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML5" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5 Logo" width="40" height="40"/>
+  <br>
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+</p>
+<p dir="auto" align="left">
   <img src="https://camo.githubusercontent.com/8ff817d429668da48bb334bab4173df1d8dae0b028f444228a4af769be3b2192/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="CSS3" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;">
   <img src="https://camo.githubusercontent.com/60b100ed24eed2218449443089cb48c13f82cbe5f603541e15aac4aa3dce5a8f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666c61742d737175617265266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" alt="Bootstrap" data-canonical-src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&amp;logo=bootstrap&amp;logoColor=white" style="max-width: 100%;">
    <img src="https://camo.githubusercontent.com/d7d0f5ef713c40161bd3f23076ce9e4efcfeecfabbb8661dba7e9f3971c3fc1f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" style="max-width: 100%;">
