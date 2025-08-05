@@ -9,9 +9,7 @@
 
 <h3 align="left">My Skills:</h3>
 <p dir="auto" align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5 Logo" width="40" height="40"/>
-  <br>
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5 Logo" width="30" height="30"/>
 </p>
 <p dir="auto" align="left">
   <img src="https://camo.githubusercontent.com/8ff817d429668da48bb334bab4173df1d8dae0b028f444228a4af769be3b2192/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="CSS3" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;">
