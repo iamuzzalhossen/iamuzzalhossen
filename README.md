@@ -1,4 +1,4 @@
-<h2 align="center">Greetings! I am Uzzal Hossen.</h2>
+<h2 align="center">Greetings! I'm Uzzal Hossen.</h2>
 <p> 💻 Web Designer and Developer | 🌐 WordPress Expert and Technical Support Specialist </p>
 
 <p> 🚀 I'm passionate about Coding, exploring WordPress, Open Source, and Technology. </p>
