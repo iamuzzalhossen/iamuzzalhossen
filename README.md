@@ -1,8 +1,8 @@
 <h2 align="center">Greetings! I am Uzzal Hossen.</h2>
-<p> ✅ Web Designer | 💻 Web Developer | 🌐 WordPress Expert </p>
+<p> 💻 Web Designer and Developer | 🌐 WordPress Expert and Technical Support Specialist </p>
 
 <p> 🚀 I'm passionate about Coding, exploring WordPress, Open Source, and Technology. </p>
-<p> 🟢 Currently, I'm working on Upwork as a freelance Web Designer and WordPress Developer. </p>
+<p> 🟢 Currently, I'm working on Upwork as a Top-rated freelance WordPress Web Designer and Developer. </p>
 <p> 🟢 I assist clients in building their online presence by creating stunning Websites for them. </p>
 <p> 🟢 I love communicating with people and creating great things I'd be proud of. </p>
 <p> 💡 Here to Learn, Collaborate, and Contribute to exciting projects. </p>
